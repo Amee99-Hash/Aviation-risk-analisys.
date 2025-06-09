@@ -1,0 +1,41 @@
+# ✈️ Aviation Risk Analysis
+
+## 🧭 Aperçu
+Ce projet vise à aider une entreprise à évaluer les risques liés à l’achat d’avions commerciaux et privés, en se basant sur l’analyse des données d’accidents fournie par la NTSB.
+
+## 💼 Compréhension de l’entreprise
+L’entreprise veut se diversifier dans le secteur aérien. Elle souhaite comprendre quels types d’avions et conditions de vol sont les plus risqués afin de faire des choix éclairés.
+
+**Questions clés :**
+- Quelles phases de vol sont les plus critiques ?
+- Comment la météo impacte-t-elle les accidents ?
+- Certains fabricants sont-ils plus à risque que d’autres ?
+
+## 📊 Données
+**Source** : [NTSB Aviation Accident Data (1962–2023)](https://www.ntsb.gov/)  
+**Variables clés** : phase de vol, météo, type d’aéronef, gravité des blessures, fabricant...
+
+## 📈 Visualisations
+
+1. **Nombre total de morts par phase de vol**
+2. **Blessures selon les conditions météo**
+3. **Blessures fatales moyennes par constructeur d’aéronef**
+
+> Les visualisations sont visibles dans le notebook (`.ipynb`) et dans la présentation (`presentation.pdf`).
+
+## Conclusions
+
+- Les phases *Unknow* et *Climb* sont les plus mortelles.
+- Les conditions IMC accroissent le risque.
+- Certains constructeurs comme le 737 et le 737-200 présentent des tendances plus inquiétantes.
+
+## Fichiers
+-  `phase1_project_Amee_Hashley.ipynb` : notebook principal
+-  `phase1_project_Amee_Hashley.pdf` : version PDF du notebook
+-  `Presentation.pdf` : diaporama non technique
+-  `AviationData.csv` : jeu de données utilisé
+
+**Amee Hashley JEUDY**  
+[LinkedIn](https://www.linkedin.com/in/amee-hashley-jeudy 460449325?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BObIEK2K%2FSFeqyI5WJSyJWg%3D%3D )
+
+---
